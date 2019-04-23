@@ -35,7 +35,7 @@ Want to become a Premium or Onyx user? One week only, Premium license are free a
  <item>
     <title>INFO</title>
     <description><![CDATA[
-A new update is in development. LTS final is making way to users this Spring. Please suggest request and fixes on the telegram channel! 
+If your new to Sapphyx Launcher, welcome! Join the telegram channel for 24/7 support, suggest ideas and give back feedback. It's the most important thing you can do. 
 ]]></description>
 <link></link>
     <content:encoded>
@@ -48,7 +48,7 @@ A new update is in development. LTS final is making way to users this Spring. Pl
  <item>
     <title>INFO</title>
     <description><![CDATA[
-Want more color options in themes? Enable Adaptive colors for launcher themes! Download Pals to unlock custom input!
+Want more color options in themes? Enable Adaptive colors for more options! Download Pals to unlock custom input!
 ]]></description>
 <link></link>
     <content:encoded>
@@ -84,31 +84,9 @@ Download Sapphyx Launcher's wallpaper companion app, Drywall.
 </content:encoded>
   </item>
   
-<item>
-    <title>DOWNLOAD NOW</title>
-    <description><![CDATA[
-Get started with icon editing with this basic and fresh adaptive icon pack, Google Icons. 
-]]></description>
-<link>https://play.google.com/store/apps/details?id=amirz.googleicons</link>
-    <content:encoded>
-<![CDATA[
-<p><img class="alignnone size-large wp-image-826374" src="https://images.unsplash.com/photo-1530292250085-3760c580b72b?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=786ef0998c6796092f1f786285729e01&auto=format&fit=crop&w=1351&q=80">
-]]>
-</content:encoded>
-  </item>
 
- <item>
-    <title>READ MORE</title>
-    <description><![CDATA[
-Head on over to the XDA Forums and dig in with some good ol discussions.
-]]></description>
-<link>https://forum.xda-developers.com/android/apps-games/app-sapphyx-launcher-2-beta-t3810530</link>
-    <content:encoded>
-<![CDATA[
-<p><img class="alignnone size-large wp-image-826374" src="https://images.unsplash.com/photo-1530236209717-4534816b9f6d?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=02664f2db542a748cdc95aface23e9c5&auto=format&fit=crop&w=1350&q=80">
-]]>
-</content:encoded>
-  </item>
+
+
   
   <item>
     <title>UPGRADE</title>
@@ -132,58 +110,6 @@ Upgrade to Onyx License. Unlocks all launcher customization and Access to exclus
     <content:encoded>
 <![CDATA[
 <p><img class="alignnone size-large wp-image-826374" src="https://images.unsplash.com/photo-1532888337502-7f9b753ae023?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=85cacb93eaaa044d871c1b65370c2fb1&auto=format&fit=crop&w=663&q=80">
-]]>
-</content:encoded>
-  </item>
-
-  <item>
-    <title>READ MORE</title>
-    <description><![CDATA[
-Losing Google Plus has impacted the group but rebuilding what we lost is only one challenge. Join us at MeWe.
-]]></description>
-<link>https://mewe.com/join/sapphyxlauncher</link>
-    <content:encoded>
-<![CDATA[
-<p><img class="alignnone size-large wp-image-826374" src="https://images.unsplash.com/photo-1530210124550-912dc1381cb8?ixlib=rb-0.3.5&s=789758c5a164756d63455b3ac17544fd&auto=format&fit=crop&w=1050&q=80">
-]]>
-</content:encoded>
-  </item>
-  
-  <item>
-    <title>READ MORE</title>
-    <description><![CDATA[
-Like GocalSD on Facebook to receive news and updates on all of my projects, including Sapphyx Launcher! 
-]]></description>
-<link>https://facebook.com/Gocalsd/</link>
-    <content:encoded>
-<![CDATA[
-<p><img class="alignnone size-large wp-image-826374" src="https://images.unsplash.com/photo-1530210124550-912dc1381cb8?ixlib=rb-0.3.5&s=789758c5a164756d63455b3ac17544fd&auto=format&fit=crop&w=1050&q=80">
-]]>
-</content:encoded>
-  </item>
-  
-  <item>
-    <title>READ MORE</title>
-    <description><![CDATA[
-Check out the home of Sapphyx Launcher and other great products by GSD.
-]]></description>
-<link>https://plus.google.com/u/0/communities/112426499892330526837</link>
-    <content:encoded>
-<![CDATA[
-<p><img class="alignnone size-large wp-image-826374" src="https://images.unsplash.com/photo-1517475020140-cd7f966b0523?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=c6f5fb0c86e6de8b5e24a3940aa84b77&auto=format&fit=crop&w=1050&q=80">
-]]>
-</content:encoded>
-  </item>
-  
-  <item>
-    <title>READ MORE</title>
-    <description><![CDATA[
-Get support from the Telegram group or discuss the current project operations!
-]]></description>
-<link>https://t.me/joinchat/IlKlJRINqd25WkHxbyBCpw</link>
-    <content:encoded>
-<![CDATA[
-<p><img class="alignnone size-large wp-image-826374" src="https://images.unsplash.com/photo-1521931961826-fe48677230a5?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=ea0a29a438c74124fe8798e41faccb6a&auto=format&fit=crop&w=1050&q=80">
 ]]>
 </content:encoded>
   </item>
