@@ -20,37 +20,11 @@
   </item>
 
 <item>
-    <title>Avengers</title>
+    <title>FEEDBACK PROGRAM</title>
     <description><![CDATA[
-Don't Spoil the Endgame 
+Please take the time to fill out this google form for the next update. A new milestone update is in development. 
 ]]></description>
-<link></link>
-    <content:encoded>
-<![CDATA[
-<p><img class="alignnone size-large wp-image-826374" src="https://cnet3.cbsistatic.com/img/xLgPeuq6CW9A2N2V2kKmhMT6h2o=/1092x0/2019/03/14/dd4d8d9c-5f16-4f6b-a7d8-65a00d095c2c/avengers-endgame-poster-square-crop.jpg">
-]]>
-</content:encoded>
-  </item>
-
-<item>
-    <title>RATINGS</title>
-    <description><![CDATA[
-Please do not put 1 star ratings because an app is designed wrong. Communicate before you rate to solve your problems. Thank you! 
-]]></description>
-<link></link>
-    <content:encoded>
-<![CDATA[
-<p><img class="alignnone size-large wp-image-826374" src="https://images.unsplash.com/photo-1522274152592-9e54a8274e65?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=86ea071dd8ce8674c43be18c8f871e2f&auto=format&fit=crop&w=634&q=80">
-]]>
-</content:encoded>
-  </item>
-
-<item>
-    <title>INFO</title>
-    <description><![CDATA[
-There is a new security update for both License packages and the Service Pack. Please accept these updates on Google Play. 
-]]></description>
-<link></link>
+<link>https://docs.google.com/forms/d/e/1FAIpQLSe4vEZt73JePpK2EEb7ld55uV9AG0zXXKjhWR6odUGrGAIY8g/viewform</link>
     <content:encoded>
 <![CDATA[
 <p><img class="alignnone size-large wp-image-826374" src="https://images.unsplash.com/photo-1522274152592-9e54a8274e65?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=86ea071dd8ce8674c43be18c8f871e2f&auto=format&fit=crop&w=634&q=80">
@@ -62,19 +36,6 @@ There is a new security update for both License packages and the Service Pack. P
     <title>INFO</title>
     <description><![CDATA[
 If your new to Sapphyx Launcher, welcome! Join the telegram channel for 24/7 support, suggest ideas and give back feedback. 
-]]></description>
-<link></link>
-    <content:encoded>
-<![CDATA[
-<p><img class="alignnone size-large wp-image-826374" src="https://images.unsplash.com/photo-1521687296887-5b06b3519a11?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=df38c12e6cbd222d0479a43c6f4c7ec0&auto=format&fit=crop&w=634&q=80">
-]]>
-</content:encoded>
-  </item>
-
- <item>
-    <title>INFO</title>
-    <description><![CDATA[
-Want more color options in themes? Enable Adaptive colors for more options! Download Pals to unlock custom input!
 ]]></description>
 <link></link>
     <content:encoded>
@@ -109,10 +70,6 @@ Download Sapphyx Launcher's wallpaper companion app, Drywall.
 ]]>
 </content:encoded>
   </item>
-  
-
-
-
   
   <item>
     <title>UPGRADE</title>
